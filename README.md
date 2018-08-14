@@ -16,7 +16,7 @@ Styles
 - [Sass](http://sass-lang.com/) via ([node-sass](https://github.com/sass/node-sass))
 
 Markup
-- [Jade](http://jade-lang.com/)
+- [Jade/Pug](http://jade-lang.com/)
 
 Optimization
 - [Imagemin](https://github.com/imagemin/imagemin)
