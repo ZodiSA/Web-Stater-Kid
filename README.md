@@ -1,12 +1,10 @@
 # Sang readme
 
-Generated on 2018-08-14 using
-[generator-yeogurt@2.0.1](https://github.com/larsonjj/generator-yeogurt)
+
 
 ## Description
 
-This is an example readme file.
-Describe your site/app here.
+
 
 ## Technologies used
 
